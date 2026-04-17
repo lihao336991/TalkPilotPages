@@ -1,0 +1,16 @@
+{
+  "generated_at": "2026-04-17T12:22:55.620Z",
+  "source": "data/legal/legal.json",
+  "outputs": {
+    "terms": "dist/legal/terms.html",
+    "privacy": "dist/legal/privacy.html",
+    "app_review_notes": ".trae/documents/App Review Notes.md"
+  },
+  "hosting_paths": {
+    "terms_url": "https://lihao336991.github.io/TalkPilotPages/legal/terms.html",
+    "privacy_url": "https://lihao336991.github.io/TalkPilotPages/legal/privacy.html",
+    "repo_url": "https://github.com/lihao336991/TalkPilotPages.git",
+    "repo_local_path": "external/TalkPilotPages",
+    "publish_subdirectory": "legal"
+  }
+}
