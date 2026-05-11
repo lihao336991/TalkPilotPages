@@ -1,5 +1,5 @@
 {
-  "generated_at": "2026-05-10T11:43:14.313Z",
+  "generated_at": "2026-05-11T10:48:00.464Z",
   "source": "data/legal/legal.json",
   "outputs": {
     "terms": "dist/legal/terms.html",
